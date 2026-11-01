@@ -1,0 +1,51 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/doc/help/errorcode.html#anonymous
+hs_err_pid*
+replay_pid*
+
+# Spring Boot
+target/
+!.mvn/wrapper/maven-wrapper.xml
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Original test document (no subir al repo de código)
+Prueba_tecnica_gestor_de_polizas.md
+
+# Contexto interno (no subir al repositorio de entrega)
+AGENTS.md
+
+# HTML intermedios (solo se usan para generar PDFs)
+*.html
