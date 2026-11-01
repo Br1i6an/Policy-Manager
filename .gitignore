@@ -49,3 +49,6 @@ AGENTS.md
 
 # HTML intermedios (solo se usan para generar PDFs)
 *.html
+
+# Carpeta de entregables (no subir al repositorio de código)
+entregables/
